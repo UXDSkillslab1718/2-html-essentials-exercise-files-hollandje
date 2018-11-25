@@ -21,8 +21,9 @@ body {
 }
 h1 {
 	font: 1.6em Verdana, Geneva, sans-serif;
-	margin-bottom: .4em;
+	margin-bottom: 20px;
 	color: rgb(83, 104, 138);
+	text-align: center;
 }
 h2 {
 	font: 3.2em Georgia, "Times New Roman", Times, serif;
@@ -31,8 +32,11 @@ h2 {
 h3 {
 	font-size: 1.2em;
 }
+li {
+	list-style-type: none;
+}
 p {
-	margin-bottom: 1em;
+	margin-bottom: 20px;
 }
 a {
 	color: rgb(184, 126, 84);
@@ -53,6 +57,7 @@ pre {
 	word-wrap: break-word;
 	width: 80%;
 }
+
 pre.wrong {
 	border-left-color: red;
 }
