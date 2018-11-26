@@ -20,7 +20,7 @@ body {
 	line-height: 1.8;
 }
 h1 {
-	font: 1.6em Verdana, Geneva, sans-serif;
+	font: 1.6em Verdana, Geneva, sans-serif, font-style:bold;
 	margin-bottom: 20px;
 	color: rgb(83, 104, 138);
 	text-align: center;
